@@ -1,0 +1,34 @@
+body {
+    margin: auto;
+    max-width: 70%;
+}
+
+h1, h2, h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+.img-box {
+    float: right;
+}
+
+.ph {margin-top: 2px;}
+
+table,th,td {
+	border: none;
+	margin-bottom: 20px;
+	border-collapse: separate;
+}
+
